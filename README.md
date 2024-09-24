@@ -1,5 +1,4 @@
-```markdown
-# s21_containers
+# CPP2_s21_containers
 
 ## Описание
 
@@ -74,7 +73,7 @@ sudo apt install gcc make libgtest-dev
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/doduohor/CPP2_s21_containers.git
+    git clone https://github.com/your-username/CPP2_s21_containers.git
     cd CPP2_s21_containers/src
     ```
 
